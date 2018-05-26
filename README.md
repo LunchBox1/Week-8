@@ -1,5 +1,7 @@
 # Project 8 - Pentesting Live Targets
 
+Nikita Marchukov
+
 Time spent: **10** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
@@ -18,19 +20,19 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection https://github.com/LunchBox1/Week-8/blob/master/SQLi.gif
 
-Vulnerability #2: Session Hijacking https://github.com/LunchBox1/Week-8/blob/master/SQLi.gif
+Vulnerability #2: Session Hijacking https://github.com/LunchBox1/Week-8/blob/master/Session%20Hijacking.gif
 
 
 ## Green
 
-Vulnerability #1: Username Enumeration
+Vulnerability #1: Username Enumeration https://github.com/LunchBox1/Week-8/blob/master/User%20Enumeration.gif
 
-Vulnerability #2: Cross-Site Scripting
+Vulnerability #2: Cross-Site Scripting https://github.com/LunchBox1/Week-8/blob/master/XSS.gif
 
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Reference
+Vulnerability #1: Insecure Direct Object Reference https://github.com/LunchBox1/Week-8/blob/master/IDOR.gif
 
 Vulnerability #2: Cross-Site Request Forgery
 
