@@ -22,19 +22,27 @@ Vulnerability #1: SQL Injection
 
 <img src="https://github.com/LunchBox1/Week-8/blob/master/SQLi.gif" width="800">
 
-Vulnerability #2: Session Hijacking https://github.com/LunchBox1/Week-8/blob/master/Session%20Hijacking.gif
+Vulnerability #2: Session Hijacking 
+
+<img src="https://github.com/LunchBox1/Week-8/blob/master/Session%20Hijacking.gif" width="800">
 
 
 ## Green
 
-Vulnerability #1: Username Enumeration https://github.com/LunchBox1/Week-8/blob/master/User%20Enumeration.gif
+Vulnerability #1: Username Enumeration 
 
-Vulnerability #2: Cross-Site Scripting https://github.com/LunchBox1/Week-8/blob/master/XSS.gif
+<img src="https://github.com/LunchBox1/Week-8/blob/master/User%20Enumeration.gif" width="800">
+
+Vulnerability #2: Cross-Site Scripting 
+
+<img src="https://github.com/LunchBox1/Week-8/blob/master/XSS.gif" width="800">
 
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Reference https://github.com/LunchBox1/Week-8/blob/master/IDOR.gif
+Vulnerability #1: Insecure Direct Object Reference 
+
+<img src="https://github.com/LunchBox1/Week-8/blob/master/IDOR.gif" width="800">
 
 Vulnerability #2: Cross-Site Request Forgery
 
