@@ -16,9 +16,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: SQL Injection
+Vulnerability #1: SQL Injection https://github.com/LunchBox1/Week-8/blob/master/SQLi.gif
 
-Vulnerability #2: Session Hijacking
+Vulnerability #2: Session Hijacking https://github.com/LunchBox1/Week-8/blob/master/SQLi.gif
 
 
 ## Green
