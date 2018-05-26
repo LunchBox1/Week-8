@@ -1,7 +1,5 @@
 # Project 8 - Pentesting Live Targets
 
-Nikita Marchukov
-
 Time spent: **10** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
