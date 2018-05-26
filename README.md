@@ -47,6 +47,6 @@ Vulnerability #2: Cross-Site Request Forgery
 
 ## Notes
 
-The first challenge encountered was during username enumeration challege. The thing that have away an existing username was easy to miss. It took me a while before I noticed the enumeration. 
-The secing challenge was encountered during SQLi. It was hard to figure out where to perform the injection. What eventually gave away that the injection had to be performed in the URL was SQLmap. 
-The final challenge, and the challenge I was not able to overcome, was in the cross-site request forgery challenge. Although many times I believed to have figured the challenge, at the very end it proved to be false. My biggest issue with that challenge is that I did not completely understand the challenge. I determined that the red version of the site contained the CSRF by using process of elimination.
+The first challenge was encountered during username enumeration challege. The thing that gave away an existing username was easy to miss. It took me a while before I noticed the enumeration. 
+The second challenge was encountered during SQLi. It was hard to figure out where to perform the injection. What eventually gave away that the SQL had to be injected into the URL was SQLmap. 
+The final challenge, and the challenge that I was not able to overcome, was in the cross-site request forgery challenge. Although many times I believed to have figured the challenge, at the very end it proved to be false. My biggest issue with that challenge is that I did not completely understand the challenge. I determined that the red version of the site contained the CSRF by using process of elimination.
